@@ -7,9 +7,14 @@ ab
 
 
 cd
+<<<<<<< HEAD
 
 ab
 
 
 latest changes
 
+=======
+dfg
+
+>>>>>>> branch 'stage1' of https://github.com/sbsk166/demo.git
